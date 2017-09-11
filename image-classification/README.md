@@ -1,12 +1,12 @@
 ## Running the Udacity Deep Learning Foundations image classification project on floydhub.com
 
-1. Create an account on [floydhub.com](https://www.floydhub.com) (don't forget to confirm your email). You will automatically receive 100 free GPU hours. 
+1. Create an account on [floydhub.com](https://www.floydhub.com) (don't forget to confirm your email).
 
 2. Install the `floyd` command on your computer:
 
         pip install -U floyd-cli
         
-    Do this even if you already installed `floyd-cli` before, just to make sure you have the most recent version (Its pace of development is fast!).
+    Do this even if you already installed `floyd-cli` before, just to make sure you have the most recent version (its peace of development is fast!).
 
 3. Associate the command with your Floyd account:
 
